@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		double boy,kilo,VKI;
 		Scanner deger = new Scanner(System.in);
-		System.out.print("lutfen agırlıgınızı kilogram cinsinden giriniz: ");
+		System.out.print("lutfen agirliginizi kilogram cinsinden giriniz: ");
 		kilo=deger.nextDouble();
 		System.out.print("lutfen boyunuzu metre cinsinden giriniz: ");
 		boy= deger.nextDouble();
